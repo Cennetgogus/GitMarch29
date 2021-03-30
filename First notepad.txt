@@ -1,0 +1,10 @@
+cd desktop (enter) it will take to your desktop
+dir (enter) it will navigate to where to go
+cd GitDemo(write your folder name) (enter) it will take you to your folder
+cd .. (enter) it will take you back or rewind
+git clone (add url link)(enter) it will clone your GitUp repository to your desktop folder
+git add (enter new file name when you created) (enter)  it will add your file to your desktop
+git add .(enter) this will save all files
+git commit -m  "write it what update you made it" (enter) it will save in both git file and GitUp
+git push (enter) it will save to the GitUp
+git log (enter) it allows you to see what changes you made it and when in details
